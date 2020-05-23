@@ -1,3 +1,2 @@
-# Credit-Card-Fruad-Detection
-Recognizing fraudulent credit card transactions 
-https://www.kaggle.com/mlg-ulb/creditcardfraud/download
+# Recognizing fraudulent credit card transactions: 
+- You can download the dataset from herehttps://www.kaggle.com/mlg-ulb/creditcardfraud/download
