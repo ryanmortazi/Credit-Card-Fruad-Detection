@@ -1,4 +1,6 @@
-# Recognizing fraudulent credit card transactions: 
+# How to deal with imbalanced data in a classification problem?
+
+## Recognizing fraudulent credit card transactions: 
 You can download the dataset from here --> https://drive.google.com/file/d/1cuv4l1kcIeVaGuPWrYRMXwoHr6zaOBVN/view?usp=sharing
 ## Dataset Details:
 The datasets contains transactions made by credit cards in September 2013 by european cardholders.
